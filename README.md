@@ -1,1 +1,1 @@
-![Language Stats](stats/leaderboard_by_lines.png)
+<img src="./stats/bar_by_bytes.png" alt="My Most Used Programming Languages" width="450" />
